@@ -4,4 +4,4 @@
  If you went to know what the scripts do you can you this table.
  Script | Description
 ------------ | -------------
-makefolder.bat | Make a folder use /? for more details
+makefolder.bat | Make a folder. Use /? for more details
