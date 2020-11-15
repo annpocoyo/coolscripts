@@ -7,3 +7,4 @@
 Folder Locker.bat | Lock a folder.
 makefolder.bat | Make a folder. Use the argument "/?" for more details.
 keyboarddisco.vbs | Make your keyboard lights disco.
+Timer.sh | Set a timer.
