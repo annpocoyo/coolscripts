@@ -4,7 +4,7 @@
  If you went to know what the scripts do you can use this table.
  Script | Description
 ------------ | -------------
-Folder Locker.bat | Lock a folder.
+Folder Locker.bat | Lock a folder. Moved to its own Repository.
 makefolder.bat | Make a folder. Use the argument "/?" for more details.
 keyboarddisco.vbs | Make your keyboard lights disco.
 Timer.sh | Set a timer.
